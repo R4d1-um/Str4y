@@ -3,6 +3,19 @@
 
 ---
 
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Hexon-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TAXVQNcne3)
+[![Website](https://img.shields.io/badge/Portfolio-Live%20Preview-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://houssame.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Follow-R4d1--um-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R4d1-um)
+
+---
+
+### 🛠️ The Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,nodejs,express,py,postgres,supabase,docker,git,vscode" />
+</p>
+
 ### 👤 About Me
 * 🔭 **Founder:** Hexon Studios.
 * 💻 **Role:** Full-Stack Developer (Next.js 14, Python, Node.js).
