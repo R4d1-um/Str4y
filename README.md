@@ -1,7 +1,7 @@
 <div align="center">
 
-# 💎 Str4y's Profile
-> **Full-Stack Developer & Founder of Hexon Studios**
+# 💎 Str4y — Full-Stack Developer
+> **Crafting High-Performance Discord Ecosystems & Modern Web Interfaces**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=3b82f6&height=180&section=header&text=STR4Y&fontSize=80&animation=fadeIn" width="100%" />
@@ -19,10 +19,12 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity Stats
+*(Note: If stats don't load, ensure your repository is Public and you have recent commits)*
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R4d1-um&show_icons=true&theme=transparent&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&hide_border=true&count_private=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4d1-um&layout=compact&theme=transparent&title_color=3b82f6&text_color=ffffff&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=R4d1-um&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4d1-um&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
