@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💎 Str4y — Full-Stack Developer
+# 💎 STR4Y — Full-Stack Developer
 > **Crafting High-Performance Discord Ecosystems & Modern Web Interfaces**
 
 <p align="center">
@@ -12,35 +12,36 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Expertise
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,tailwind,nodejs,express,py,postgres,supabase,docker,git,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Activity Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R4d1-um&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=3b82f6&text_color=ffffff" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4d1-um&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=ffffff" width="45%" />
-</p>
----
-
-### 🚀 Featured Projects
-- **[Hexon Studios](https://github.com/R4d1-um/hexon-studios)**: Multi-tier license-protected Discord ecosystem.
-- **[R4DIUM Marketplace](https://github.com/R4d1-um/r4dium-marketplace)**: Sleek, modern marketplace for Discord services.
+### 🚀 Core Focus
+| Domain | Specialization |
+| :--- | :--- |
+| **Discord Bots** | AI-Driven Moderation & Complex Licensing Systems |
+| **Web Dev** | Full-Stack Next.js 14 Applications |
+| **Infrastructure** | PostgreSQL & Dedicated Hosting |
 
 ---
 
-### 👤 About Me
-- 🔭 **Working on:** Scaling the Hexon Ecosystem.
-- 💻 **Core Tech:** Next.js 14, Python, PostgreSQL.
-- 🇲🇦 **Location:** Morocco.
-- 🎯 **Vision:** Automating the digital world, one line of code at a time.
+### 📖 My Story
+I’m a 14-year-old developer based in **Morocco** 🇲🇦. My journey in coding is driven by pure passion and the desire to build tools that empower communities. What started as a hobby has evolved into **Hexon Studios**—a project where I pour my heart and soul into every line of code to deliver premium experiences. 
+
+I believe that even at a young age, with dedication and the right vision, we can push the boundaries of what's possible in the digital world.
+
+---
+
+### 📂 Featured Projects
+* **[Hexon Studios](https://github.com/R4d1-um/hexon-studios)**: A multi-tier license-protected Discord bot ecosystem.
+* **[R4DIUM Marketplace](https://github.com/R4d1-um/r4dium-marketplace)**: A sleek, modern marketplace for Discord services.
 
 ---
 
 <div align="center">
-  <b>© 2026 STR4Y — Engineered with Passion</b>
+  <b>© 2026 STR4Y — Engineered with Heart & Passion from Morocco</b>
 </div>
 </div>
